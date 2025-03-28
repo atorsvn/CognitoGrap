@@ -36,7 +36,7 @@ CognitoGraph/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/CognitoGraph.git
+   git clone https://https://github.com/atorsvn/CognitoGraph
    cd CognitoGraph
    ```
 
